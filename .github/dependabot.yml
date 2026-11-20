@@ -1,0 +1,9 @@
+# Read by GitHub's Dependabot service (runs on GitHub, nothing to install).
+# Once a week it checks the `uses: actions/...@vN` lines in .github/workflows/*.yml
+# and opens a pull request when a newer major version (e.g. v7 → v8) exists.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
