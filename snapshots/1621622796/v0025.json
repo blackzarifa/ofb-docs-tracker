@@ -1,0 +1,10 @@
+{
+  "page_id": "1621622796",
+  "version": 25,
+  "title": "Iniciação de Pagamentos - Regras de Obrigatoriedade (additionalInfo)",
+  "space": "OF",
+  "when": "2026-11-17T22:15:02.788Z",
+  "author": "André Shimizu",
+  "message": "T-25; D-33 tamanho de companyProfileInfo; D-34 padrão do paymentId",
+  "minor_edit": false
+}

@@ -1,0 +1,10 @@
+{
+  "page_id": "1622081540",
+  "version": 32,
+  "title": "Pagamentos Automáticos - Regras de Obrigatoriedade (additionalInfo)",
+  "space": "OF",
+  "when": "2026-11-17T22:15:05.888Z",
+  "author": "André Shimizu",
+  "message": "T-25; D-31 POST /consents; D-34 padrão do paymentId",
+  "minor_edit": false
+}
