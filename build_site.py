@@ -310,6 +310,7 @@ TEMPLATE = """<!doctype html>
 <html lang="pt-BR"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>OFB Docs Tracker</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%231a7f37'/><path d='M7 0h9v32H7a7 7 0 0 1-7-7V7a7 7 0 0 1 7-7z' fill='%23cf222e'/><path d='M4 16h8M20 16h8M24 12v8' stroke='%23fff' stroke-width='3' stroke-linecap='round'/></svg>">
 <style>
 :root{--bg:#fff;--fg:#1f2328;--muted:#656d76;--line:#d0d7de;--card:#f6f8fa;
 --del-bg:#ffebe9;--del-hl:#ff818266;--add-bg:#e6ffec;--add-hl:#4ac26b66;--link:#0969da}
