@@ -3,5 +3,5 @@
 # To stop tracking a page, delete its line or comment it out with #.
 # Saved snapshots are kept either way.
 
-https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/1621622796
+https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/1621622796/
 https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/1622081540/
